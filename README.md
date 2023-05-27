@@ -32,6 +32,7 @@ In PaddleRight (Negative button - down and positive buttom - up) and paddleLeft(
  
 ## Program:
 DEVELOPED BY: ISHWARYA V
+
 REG.NO: 212221240016 
 ## GAME MANAGER:
 ```
